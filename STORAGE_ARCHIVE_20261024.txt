@@ -1,0 +1,14 @@
+Workstation storage relocation authorized on 2026-10-24.
+
+Original workstation path: /home/wolfgang/repos/mri-cognition-eeg-wei2024
+Archive destination: /media/cdac_sleep/WolfgangGanglberger/workstation-archive-2026-10-24/repos--mri-cognition-eeg-wei2024.tar.zst
+Verification/receipt: /media/cdac_sleep/WolfgangGanglberger/workstation-archive-2026-10-24/archive-manifest.json
+
+The local source may be retired only after a compressed archive has been
+read back, SHA-256 checked, compared with the source by GNU tar, and
+confirmed unchanged and unused by running processes. Archives preserve
+the working tree, ignored/untracked files, Git metadata, links and modes.
+This policy applies to the named workstation path, not all project copies.
+Do not automatically recreate retired data or reverse these removals.
+Restore to this workstation only on explicit user instruction, after
+checking available storage. See the local ARCHIVE_LOCATION.txt notice.
